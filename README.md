@@ -8,6 +8,8 @@ Then you use the better HTML tools on your actual note.
 
 See [the well documented code](./src/main.rs) for a detailed explaination and example!
 
+This is also possible without code by manually creating a new note type in Anki. If anyone wants to document it, please create a Pull Request! If one needs help doing that, just reach out at `lars@MY USERNAME.de
+
 ## LICENSE
 For the example assets, see [`./assets`](./assets)
 
