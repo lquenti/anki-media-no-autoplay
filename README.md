@@ -6,7 +6,7 @@ The idea is to create a note type with a third hidden field where you formally e
 
 Then you use the better HTML tools on your actual note.
 
-See the well documented code for a detailed explaination and example!
+See [the well documented code](./src/main.rs) for a detailed explaination and example!
 
 ## LICENSE
 For the example assets, see [`./assets`](./assets)
